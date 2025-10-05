@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Short Bio</title>
+</head>
+<body>
+    <! -- Name as heading -- .
+    <h1>kajal Mahto</h1>
+
+  <!-- Introductory paragraph -->
+  <p>Hello! My name is kajal. I am a 
+first-year B.Tech computer Science
+student, learning the basics of
+programing and web developement,</p>
+
+     <!-- Horizontal line -->
+     <hr>
+     
+     <!-- interests-->
+     <h2>My interests</h2>
+     <p>I am interested in web
+developement and exploring UI/UX design.
+i also enjoy solving logical problems
+and learning new technologies,</p>
+</body>
+</html> 
